@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HydraulicControl</string>
+    <string name="cancel">Cancelar</string>
+    <string name="waiting_connection_title">Aguardando conexão</string>
+    <string name="waiting_connection_message">Verifique se o dispositivo Bluetooth está ligado corretamente.</string>
+</resources>
